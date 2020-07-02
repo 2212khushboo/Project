@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [],
+  "properties": [
+    {
+      "name": "server.servlet.port",
+      "description": "Description for server.servlet.port.",
+      "type": "java.lang.String"
+    }
+  ]
+}
